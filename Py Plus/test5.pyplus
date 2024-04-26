@@ -1,0 +1,9 @@
+<import> sys
+
+sys.set x 10
+
+sys.print Hello World
+
+x = Hello World
+
+let x + y [foo] = Hello World

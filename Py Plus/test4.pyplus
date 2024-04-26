@@ -1,0 +1,9 @@
+# forth test
+
+<import> sys
+
+set x 10
+
+print Hello Pyplus
+
+sys.print Hello World

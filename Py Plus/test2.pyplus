@@ -1,0 +1,14 @@
+<import> os
+<import> sys
+
+x = Hello World
+y = Good Bye World
+
+set x 10
+set y 10
+
+let x [print] = Hello World
+let y [print] = Good Bye World
+
+print Hello World
+print Good Bye World

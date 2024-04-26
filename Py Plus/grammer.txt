@@ -1,0 +1,25 @@
+console program: stament list
+
+print stament: print expression
+
+set stament: set id expression
+
+let stament: let id expression
+
+include stament: file runner expression
+                 pyplus runner expression
+
+insert stament: insert expression
+
+print simple: top simple: Hello World
+              second top simple: Good Bye World
+
+set simple: top simple: 10
+
+let simple: top simple: x
+
+pass stament: print expression
+              set expression
+              let expression
+
+pass expression: stament list

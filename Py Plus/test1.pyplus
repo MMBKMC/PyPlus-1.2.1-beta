@@ -1,0 +1,9 @@
+# example code
+
+set y 10
+
+let y be [100] = Hello World
+
+Hello World = x + y
+
+print Hello World

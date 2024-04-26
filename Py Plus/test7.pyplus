@@ -1,0 +1,13 @@
+<import> sys
+
+set x 10
+
+let x 10 [foo] = Hello World
+print Hello World
+
+set y 10
+
+let y [boo] = Good Bye World
+print Good Bye World
+
+End Code;

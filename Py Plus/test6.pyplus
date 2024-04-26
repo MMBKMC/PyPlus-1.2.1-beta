@@ -1,0 +1,10 @@
+<import> os
+<import> sys
+<from> os <import> bit, cpu, ram, gpu
+
+os.bits 16
+
+int main()
+{
+    print Hello World
+}
