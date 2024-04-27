@@ -11,24 +11,24 @@ Hello PyPlus = x
 
 print Hello Pyplus
 
-'''txt
+'''
 
 # Hello World, Good Bye World
 
 '''txt
 print Hello World
 print Good Bye World
-'''txt
+'''
 
 # input
 
 '''txt
 input = Enter your game:
-'''txt
+'''
 
 # make a syntax
 
-'''
+'''txt
 <import> sys
 
 def synatx
