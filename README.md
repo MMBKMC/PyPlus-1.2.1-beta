@@ -4,7 +4,7 @@ PyPlus+ is a basic language and program in Python.
 # Example Code
 This is the example codes and not that really hard!
 
-'''txt
+'''rs
 set x 10
 let x + y [foo] = Hello PyPlus
 Hello PyPlus = x
@@ -15,20 +15,20 @@ print Hello Pyplus
 
 # Hello World, Good Bye World
 
-'''txt
+'''rs
 print Hello World
 print Good Bye World
 '''
 
 # input
 
-'''txt
+'''rs
 input = Enter your game:
 '''
 
 # make a syntax
 
-'''txt
+'''rs
 <import> sys
 
 def synatx
